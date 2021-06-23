@@ -1,7 +1,9 @@
 # Part 1
 In the presentation software and language of your choice, script, and storyboard a video that teaches the following learning objectives related to recursion.  This work will be evaluated on organization and clarity rather than artistic merit.  The storyboard should consist of five to eight slides.     
 ## Recursion
-![Recursion](Recursion.gif)
+![Recursion](Recursion.gif)     
+For slides, see pdf in repo above. GIF included to show animations on last slide (which pdf cannot capture). GIF of just the last slide:     
+![Last Slide](lastSlide.gif)     
 # Part 2     
 Devise a team-based learning activity appropriate for 10 groups of 4 to 5 students each, working remotely, to support the following learning objectives.  The activity should take no more than 60 minutes, including, setup, execution, and presentation or closing comments.  Please use no more than two pages to describe the activity.
 
